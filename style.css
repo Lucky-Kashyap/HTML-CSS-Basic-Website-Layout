@@ -1,0 +1,126 @@
+body{
+    background-color: #21282D;
+}
+.mainmid{
+    width: 900px;
+    height: auto;
+    margin: auto;
+    
+}
+.headersec{
+    width: 900px;
+    height: 220px;
+    float: left;
+    background-image: url(gray.jpg);
+}
+.menu{
+    width: 900px;
+    height: 50px;
+    float: left;
+    background-color: chartreuse;
+}
+.sideleft{
+    width: 250px;
+    height: 600px;
+    float: left;
+    
+}
+.sideright{
+    width: 650px;
+    height: 600px;
+    float: left;
+    
+}
+.hrline
+{
+    width: 900px;
+    height: 10px;
+    float: left;
+    
+}
+.footsec{
+    width: 900px;
+    height: 60px;
+    float: left;
+    
+}
+.sidelup{
+    width: 250px;
+    height: 330px;
+    float: left;
+    color: white;
+}
+.sideldown{
+    width: 250px;
+    height: 270px;
+    float: left;
+    color: white;
+    
+}
+.siderup{
+    width: 650px;
+    height: 330px;
+    float: left;
+    color: white;
+}
+.siderdown{
+    width: 650px;
+    height: 270px;
+    float: left;
+    
+}
+.siderd1{
+    width: 309px;
+    height: 270px;
+    float: left;
+    color: whitesmoke;
+    padding-left: 15px;
+
+}
+.siderd2{
+    width: 2px;
+    height: 270px;
+    
+    float: left;
+    
+}
+.menubar{
+    width: 150px;
+    height: 40px;
+    float: left;
+    background-color: #333D3F;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+
+}
+.sidelup h2{
+    text-align: center;
+
+
+
+
+
+}
+li{
+    font-size: 20px;
+    text-decoration: underline;
+
+
+}
+.sideldown h1{
+    text-align: center;
+
+}
+button{
+    padding: 10px;
+}
+
+.footsec p{
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+
+
